@@ -46,13 +46,15 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/20182334.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Seungjun and I'm a ph.D student at POSTECH.
 #  As well as administrating systems I also have experience making software and web apps. 
 #  I have worked at a number of companies gaining teamwork and leadership skills.
 
-#  My skills: <mark>Linux</mark> and <mark>C++</mark> 
+  Skills--
+  <mark>C/C++</mark> <mark>Python3</mark> <mark>OCaml</mark> <mark>Swift</mark>
+  <mark>Linux</mark> <mark>HTML5</mark> <mark>MySQL</mark> <mark>Git&Github</mark>
 
 content:
   - title: Education # Title for the section
