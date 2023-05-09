@@ -9,7 +9,7 @@ version: 2
 name: Seungjun Lee
 title: Ph.d student 
 email: juny2400@postech.ac.kr
-website: www.github.com/sproogen/resume-theme
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -32,7 +32,7 @@ instagram_username: _juny24
 # Additional icon links
 additional_links:
 - title: Lab
-  icon: fa-sharp fa-solid fa-flask-gear
+  icon: fab fa-sharp fa-solid fa-flask-gear
   url: https://algo.postech.ac.kr
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
