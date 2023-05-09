@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 #  As well as administrating systems I also have experience making software and web apps. 
 #  I have worked at a number of companies gaining teamwork and leadership skills.
 
-  Skills: <mark>Linux</mark> and <mark>C++</mark> 
+  My skills: <mark>Linux</mark> and <mark>C++</mark> 
 
 content:
   - title: Education # Title for the section
