@@ -68,7 +68,7 @@ content:
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-    content:
+          
       - layout: left
         title:  Pohang University of Science and Technology
         caption: 2018 - present
@@ -89,9 +89,7 @@ content:
           Taekang Eom, Seungjun Lee, Hee-Kap Ahn.
           Largest similar copies of convex polygons amidst polygonal obstacles.
           <i>Submitted.</i>
-     - layout: top-middle
-        title: Conference
-       description: | # this will include new lines to allow paragraphs
+          
           Seungjun Lee, Taekang Eom, Hee-Kap Ahn.
           Largest triangles in a polygon.
           Computational Geometry, 98, 101792, 2021.
@@ -99,6 +97,16 @@ content:
           Yujin Choi, Seungjun Lee, Hee-Kap Ahn.
           Maximum-Area and Maximum-Perimeter Rectangles in Polygons.
           Computational Geometry, 94, 101710, 2021.
+     - layout: top-middle
+        title: Conference
+       description: | # this will include new lines to allow paragraphs
+          Taekang Eom, Seungjun Lee, Hee-Kap Ahn.
+          Largest similar copies of convex polygons in polygonal domains.
+          In Proc. 41st IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2021), 2021.
+          
+          Yujin Choi, Seungjun Lee, Hee-Kap Ahn.
+          Maximum-Area Rectangles in a Simple Polygon.
+          In Proc. 39th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2019), pages 12:1–12:14, 2019
          
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
