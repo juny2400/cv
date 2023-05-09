@@ -52,9 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
 #  As well as administrating systems I also have experience making software and web apps. 
 #  I have worked at a number of companies gaining teamwork and leadership skills.
 
-  Skills--
-  <mark>C/C++</mark> <mark>Python3</mark> <mark>OCaml</mark> <mark>Swift</mark>
-  <mark>Linux</mark> <mark>HTML5</mark> <mark>MySQL</mark> <mark>Git&Github</mark>
+#  Skills--
+#  <mark>C/C++</mark> <mark>Python3</mark> <mark>OCaml</mark> <mark>Swift</mark>
+#  <mark>Linux</mark> <mark>HTML5</mark> <mark>MySQL</mark> <mark>Git&Github</mark>
 
 content:
   - title: Education # Title for the section
