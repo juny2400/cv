@@ -32,7 +32,7 @@ instagram_username: _juny24
 # Additional icon links
 additional_links:
 - title: Lab
-  icon: far fa-flask-gear
+  icon: fa-regular fa-flask-gear
   url: https://algo.postech.ac.kr
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -85,8 +85,8 @@ content:
       - layout: left
         title: Jornal
         description: | # this will include new lines to allow paragraphs
-          Taekang Eom, Seungjun Lee, Hee-Kap Ahn.  
-#          Largest similar copies of convex polygons amidst polygonal obstacles.
+          Taekang Eom, Seungjun Lee, Hee-Kap Ahn.
+          Largest similar copies of convex polygons amidst polygonal obstacles.
 #          _Submitted._
           
   - title: Projects # Title for the section
