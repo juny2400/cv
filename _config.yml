@@ -84,12 +84,12 @@ content:
     content:
       - layout: left
         title: Jornal
-        caption: |
-        sub_title: |
+        caption: d
+        sub_title: d
         description: | # this will include new lines to allow paragraphs
           Taekang Eom, Seungjun Lee, Hee-Kap Ahn.  
           Largest similar copies of convex polygons amidst polygonal obstacles.
-          <i>Submitted.</i>
+          _Submitted._
           
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
