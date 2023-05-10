@@ -54,11 +54,11 @@ about_content: | # this will include new lines to allow paragraphs
   M.S. & Ph.D. Computer Science and engineering, POSTECH, 2018 - CURRENT  
   B.S. Mathematics, POSTECH, 2013 - 2017  
 
-  ##### **Research interests**  
-  Algorithms and Data structures / Optimization / Computational Geometry / Stochastic  
+  #### **Research interests**  
+  Algorithms and Data structures / Computational Geometry / Optimization / Stochastic  
 
   #### **Languages**  
-  Korean / English / Japanese / Russian(simple conversation)  
+  Korean / English / Japanese / Russian (simple conversation)  
 
   #### **Technical skills**  
   <mark>C/C++</mark> <mark>Python3</mark> <mark>Java</mark> <mark>OCaml</mark> <mark>Swift</mark>
@@ -92,7 +92,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Jornal
+        title: Journal
         description: | # this will include new lines to allow paragraphs
           Taekang Eom, Seungjun Lee, Hee-Kap Ahn.
           Largest similar copies of convex polygons amidst polygonal obstacles.
@@ -137,7 +137,7 @@ content:
       - layout: top-middle
         title: Optimal Data Structure and Algorithmic Applications in Dynamic Geometric Environment
         quote: >
-          SW StarLab, Institute of Information & Communications Technology Planning & Evaluation(IITP), 2018 - 2022
+          SW StarLab, Institute of Information & Communications Technology Planning & Evaluation (IITP), 2018 - 2022
         description: | # this will include new lines to allow paragraphs
           This project aims to design optimal algorithms that handles data such as objects existing in space.
           Among them, we are conducting research on designing the optimal geometric algorithm that calculates
@@ -148,16 +148,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Academic Activity
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            **Official Reviewr of Journals**  
+            1. Soft Computing (SOCO) - 2023  
+            1. Computational Geometry: Theory and Applications (CGTA) - 2021  
+            1. Korean Institute of Information Scientists and Engineers (Journal of KIISE) - 2020, 2021  
 
+            **Official Reviewr of Conferences**  
+            2. Korean Computer Congress (KCC) - 2023  
+            2. International Symposium on Algorithms and Computation (ISAAC) - 2021  
+            2. European Workshop on Computational Geometry (EuroCG) - 2020, 2021  
+            2. Symposium on Computational Geometry (SoCG) - 2020  
+    
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -166,7 +171,7 @@ content:
       - Badminton
       - Camping
       - Coocking
-      - Cube
+      - Drinking (Cocktail)
 #      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
  #     Look at this cool image  
