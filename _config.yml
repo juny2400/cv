@@ -51,10 +51,10 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Seungjun and I'm a Ph.D student in computer science (Algorithm).
 #  As well as administrating systems I also have experience making software and web apps. 
 #  I have worked at a number of companies gaining teamwork and leadership skills.
-  
+
   Education  
-  (2018 - CURRENT) Ph.D. Computer Science and engineering, POSTECH  
-  (2013 - 2017) B.S. Mathematics, POSTECH
+  #(2018 - CURRENT) Ph.D. Computer Science and engineering, POSTECH  
+  #(2013 - 2017) B.S. Mathematics, POSTECH
   #Skills: <mark>CC Python3 OCaml Swift Linux HTML5 MySQL GitGithub</mark>
 
 content:
