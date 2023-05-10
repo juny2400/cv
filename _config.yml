@@ -151,7 +151,7 @@ content:
         title: Academic Experience
         description: | # this will include new lines to allow paragraphs
           **Official Reviewr of Journals**  
-          Soft Computing (SOCO) - 2023  
+          \- Soft Computing (SOCO) - 2023  
           Computational Geometry: Theory and Applications (CGTA) - 2021  
           Korean Institute of Information Scientists and Engineers (Journal of KIISE) - 2020, 2021  
 
@@ -166,6 +166,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Teaching Assistant of AI Education Programs for Business**  
           sdf
+
+          **Teaching Assistant of Class**
+          CSED331 Algorithms - 2019, 2020, 2021, 2022  
+
+
 
   - title: A Little More About Me
     layout: text
