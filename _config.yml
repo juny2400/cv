@@ -151,7 +151,7 @@ content:
         title: Academic Experience
         description: | # this will include new lines to allow paragraphs
           **Official Reviewr of Journals**  
-          \- Soft Computing (SOCO) - 2023  
+          Soft Computing (SOCO) - 2023  
           Computational Geometry: Theory and Applications (CGTA) - 2021  
           Korean Institute of Information Scientists and Engineers (Journal of KIISE) - 2020, 2021  
 
@@ -165,12 +165,20 @@ content:
         title: Educational Experience
         description: | # this will include new lines to allow paragraphs
           **Teaching Assistant of AI Education Programs for Business**  
-          sdf
+          Youth AI Big Data Academy - 2022, 2023  
+          POSCO AI Expert - 2019, 2021, 2022  
+          SK Hynix Machine Learning Champion - 2018, 2019, 2020  
 
-          **Teaching Assistant of Class**
+          **Teaching Assistant of Classes**  
           CSED331 Algorithms - 2019, 2020, 2021, 2022  
 
-
+          **Other Experiences*  
+          Vice President of POSTECH Student Council - 2017  
+          Preparatory Committee of POSTECH Festival - 2016  
+          Preparatory Committee of Freshmen Orientation - 2016  
+          Preparatory Committee of POSTECH-KAIST Science War - 2015, 2017  
+          Student Representative of the Department of Mathematics - 2014  
+          POSTECH Club - Impact(Racquetball), Clear(Badminton)
 
   - title: A Little More About Me
     layout: text
