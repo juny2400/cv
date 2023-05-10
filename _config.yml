@@ -49,12 +49,13 @@ additional_links:
 about_profile_image: images/20182334.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Seungjun and I'm a Ph.D student in computer science (Algorithm).  
-
+    
+    
   **Education**  
   (2018 - CURRENT) Ph.D. Computer Science and engineering, POSTECH  
   (2013 - 2017) B.S. Mathematics, POSTECH  
 
-  Technical skills  
+  **Technical skills**  
   <mark>C/C++</mark> <mark>Python3</mark> <mark>OCaml</mark> <mark>Swift</mark>
   <mark>Linux</mark> <mark>HTML5</mark> <mark>MySQL</mark> <mark>Git/Github</mark>
 
