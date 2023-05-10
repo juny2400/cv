@@ -141,8 +141,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           This project aims to design optimal algorithms that handles data such as objects existing in space.
           Among them, we are conducting research on designing the optimal geometric algorithm that calculates
-          the shortest path and geometric data structure in a fast time in an environment where objects and data in space dynamically change.  
-          [Github](https://github.com/postechdnn/postechdnn) [Homepage](https://dnn.postech.ac.kr/)
+          the shortest path and geometric data structure in a fast time in an environment where objects and data in space dynamically change.
+          [Github](https://github.com/postechdnn/postechdnn) / [Homepage](https://dnn.postech.ac.kr/)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -151,20 +151,21 @@ content:
         title: Academic Experience
         description: | # this will include new lines to allow paragraphs
           **Official Reviewr of Journals**  
-            1. Soft Computing (SOCO) - 2023  
-            1. Computational Geometry: Theory and Applications (CGTA) - 2021  
-            1. Korean Institute of Information Scientists and Engineers (Journal of KIISE) - 2020, 2021  
+          1. Soft Computing (SOCO) - 2023  
+          1. Computational Geometry: Theory and Applications (CGTA) - 2021  
+          1. Korean Institute of Information Scientists and Engineers (Journal of KIISE) - 2020, 2021  
 
           **Official Reviewr of Conferences**  
-            2. Korean Computer Congress (KCC) - 2023  
-            2. International Symposium on Algorithms and Computation (ISAAC) - 2021  
-            2. European Workshop on Computational Geometry (EuroCG) - 2020, 2021  
-            2. Symposium on Computational Geometry (SoCG) - 2020  
+          2. Korean Computer Congress (KCC) - 2023  
+          2. International Symposium on Algorithms and Computation (ISAAC) - 2021  
+          2. European Workshop on Computational Geometry (EuroCG) - 2020, 2021  
+          2. Symposium on Computational Geometry (SoCG) - 2020  
 
       - layout: left
         title: Educational Experience
         description: | # this will include new lines to allow paragraphs
-
+          **Teaching Assistant of AI Education Programs for Business**  
+          1. sdf
 
   - title: A Little More About Me
     layout: text
