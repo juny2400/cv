@@ -151,21 +151,21 @@ content:
         title: Academic Experience
         description: | # this will include new lines to allow paragraphs
           **Official Reviewr of Journals**  
-          1. Soft Computing (SOCO) - 2023  
-          1. Computational Geometry: Theory and Applications (CGTA) - 2021  
-          1. Korean Institute of Information Scientists and Engineers (Journal of KIISE) - 2020, 2021  
+          Soft Computing (SOCO) - 2023  
+          Computational Geometry: Theory and Applications (CGTA) - 2021  
+          Korean Institute of Information Scientists and Engineers (Journal of KIISE) - 2020, 2021  
 
           **Official Reviewr of Conferences**  
-          2. Korean Computer Congress (KCC) - 2023  
-          2. International Symposium on Algorithms and Computation (ISAAC) - 2021  
-          2. European Workshop on Computational Geometry (EuroCG) - 2020, 2021  
-          2. Symposium on Computational Geometry (SoCG) - 2020  
+          Korean Computer Congress (KCC) - 2023  
+          International Symposium on Algorithms and Computation (ISAAC) - 2021  
+          European Workshop on Computational Geometry (EuroCG) - 2020, 2021  
+          Symposium on Computational Geometry (SoCG) - 2020  
 
       - layout: left
         title: Educational Experience
         description: | # this will include new lines to allow paragraphs
           **Teaching Assistant of AI Education Programs for Business**  
-          1. sdf
+          sdf
 
   - title: A Little More About Me
     layout: text
