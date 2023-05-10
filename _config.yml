@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 #  As well as administrating systems I also have experience making software and web apps. 
 #  I have worked at a number of companies gaining teamwork and leadership skills.
 
-  Skills: C/C++ Python3 OCaml Swift Linux HTML5 MySQL Git&Github
+  Skills: <mark>CC Python3 OCaml Swift Linux HTML5 MySQL GitGithub</mark>
 
 content:
   - title: Education # Title for the section
@@ -96,16 +96,16 @@ content:
           Yujin Choi, Seungjun Lee, Hee-Kap Ahn.
           [Maximum-Area and Maximum-Perimeter Rectangles in Polygons.](https://www.sciencedirect.com/science/article/abs/pii/S0925772120301048)
           [_Computational Geometry_](https://www.sciencedirect.com/journal/computational-geometry), 94, 101710, 2021.
-#      - layout: left
-#        title: Conference
-#        description: | # this will include new lines to allow paragraphs
-#          Taekang Eom, Seungjun Lee, and Hee-Kap Ahn.
-#          [Largest similar copies of convex polygons in polygonal domains.](https://drops.dagstuhl.de/opus/volltexte/2021/15530/pdf/LIPIcs-FSTTCS-2021-19.pdf)
-#          [In Proc. 41st IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2021)](https://www.fsttcs.org.in/archives/2021/), 2021.
-#          
-#          Yujin Choi, Seungjun Lee, Hee-Kap Ahn.
-#          [Maximum-Area Rectangles in a Simple Polygon.](https://drops.dagstuhl.de/opus/volltexte/2019/11574/pdf/LIPIcs-FSTTCS-2019-12.pdf)
-#          [In Proc. 39th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2019)](https://www.fsttcs.org.in/archives/2019/), pages 12:1–12:14, 2019
+      - layout: left
+        title: Conference
+        description: | # this will include new lines to allow paragraphs
+          Taekang Eom, Seungjun Lee, and Hee-Kap Ahn.
+          [Largest similar copies of convex polygons in polygonal domains.](https://drops.dagstuhl.de/opus/volltexte/2021/15530/pdf/LIPIcs-FSTTCS-2021-19.pdf)
+          [In Proc. 41st IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2021)](https://www.fsttcs.org.in/archives/2021/), 2021.
+          
+          Yujin Choi, Seungjun Lee, Hee-Kap Ahn.
+          [Maximum-Area Rectangles in a Simple Polygon.](https://drops.dagstuhl.de/opus/volltexte/2019/11574/pdf/LIPIcs-FSTTCS-2019-12.pdf)
+          [In Proc. 39th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2019)](https://www.fsttcs.org.in/archives/2019/), pages 12:1–12:14, 2019
   
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
