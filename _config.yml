@@ -53,8 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
 #  I have worked at a number of companies gaining teamwork and leadership skills.
 
 #  Skills--
-  <mark>C/C++</mark> <mark>Python3</mark> <mark>OCaml</mark> <mark>Swift</mark>
-  <mark>Linux</mark> <mark>HTML5</mark> <mark>MySQL</mark> <mark>Git&Github</mark>
+  **C/C++ Python3 OCaml Swift**
+  **Linux HTML5 MySQL Git&Github**
 
 content:
   - title: Education # Title for the section
