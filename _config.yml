@@ -48,15 +48,21 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/20182334.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Seungjun and I'm a Ph.D student in computer science (Algorithm).      
+  Hi, my name's Seungjun and I'm a Ph.D student majoring in computer science (Algorithm).      
 
-  **Education**  
-  (2018 - CURRENT) Ph.D. Computer Science and engineering, POSTECH  
+  ####Educations  
+  (2018 - CURRENT) M.S. & Ph.D. Computer Science and engineering, POSTECH  
   (2013 - 2017) B.S. Mathematics, POSTECH  
 
+  **Research interests**  
+  Algorithms and Data structures / Optimization / Computational Geometry / Stochastic  
+
   **Technical skills**  
-  <mark>C/C++</mark> <mark>Python3</mark> <mark>OCaml</mark> <mark>Swift</mark>
-  <mark>Linux</mark> <mark>HTML5</mark> <mark>MySQL</mark> <mark>Git/Github</mark>
+  <mark>C/C++</mark> <mark>Python3</mark> <mark>Java</mark> <mark>OCaml</mark> <mark>Swift</mark>
+  <mark>Linux</mark> <mark>HTML5</mark> <mark>MySQL</mark> <mark>Git/Github</mark>  
+
+  **Languages**  
+  Korean(native) /  
 
 content:
 #  - title: Education # Title for the section
@@ -106,7 +112,7 @@ content:
           [Largest similar copies of convex polygons in polygonal domains.](https://drops.dagstuhl.de/opus/volltexte/2021/15530/pdf/LIPIcs-FSTTCS-2021-19.pdf)
           [In Proc. 41st IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2021)](https://www.fsttcs.org.in/archives/2021/), 2021.
           
-          Yujin Choi, Seungjun Lee, Hee-Kap Ahn.
+          Yujin Choi, **Seungjun Lee**, Hee-Kap Ahn.
           [Maximum-Area Rectangles in a Simple Polygon.](https://drops.dagstuhl.de/opus/volltexte/2019/11574/pdf/LIPIcs-FSTTCS-2019-12.pdf)
           [In Proc. 39th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2019)](https://www.fsttcs.org.in/archives/2019/), pages 12:1–12:14, 2019
   
@@ -114,7 +120,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: PCB design automation
+        title: PCB Design Automation
         quote: >
           Samsung Electonics, 2019 - 2022
         description: | # this will include new lines to allow paragraphs
@@ -129,13 +135,14 @@ content:
           algorithm design and S/W development that automates wiring work according to given conditions in PCB design are carried out.
 
       - layout: top-middle
-        title: PCB design automation
+        title: Optimal Data Structure and Algorithmic Applications in Dynamic Geometric Environment
         quote: >
           SW StarLab, Institute of Information & Communications Technology Planning & Evaluation(IITP), 2018 - 2022
         description: | # this will include new lines to allow paragraphs
           This project aims to design optimal algorithms that handles data such as objects existing in space.
           Among them, we are conducting research on designing the optimal geometric algorithm that calculates
-          the shortest path and geometric data structure in a fast time in an environment where objects and data in space dynamically change.
+          the shortest path and geometric data structure in a fast time in an environment where objects and data in space dynamically change.  
+          [Github](https://github.com/postechdnn/postechdnn) [Homepage](https://dnn.postech.ac.kr/)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
