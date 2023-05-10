@@ -50,19 +50,19 @@ about_profile_image: images/20182334.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Seungjun and I'm a Ph.D student majoring in computer science (Algorithm).      
 
-  #### Educations  
-  (2018 - CURRENT) M.S. & Ph.D. Computer Science and engineering, POSTECH  
-  (2013 - 2017) B.S. Mathematics, POSTECH  
+  #### **Educations**  
+  M.S. & Ph.D. Computer Science and engineering, POSTECH, 2018 - CURRENT  
+  B.S. Mathematics, POSTECH, 2013 - 2017  
 
-  **Research interests**  
+  ##### **Research interests**  
   Algorithms and Data structures / Optimization / Computational Geometry / Stochastic  
 
-  **Technical skills**  
+  #### **Languages**  
+  Korean / English / Japanese / Russian(simple conversation)  
+
+  #### **Technical skills**  
   <mark>C/C++</mark> <mark>Python3</mark> <mark>Java</mark> <mark>OCaml</mark> <mark>Swift</mark>
   <mark>Linux</mark> <mark>HTML5</mark> <mark>MySQL</mark> <mark>Git/Github</mark>  
-
-  **Languages**  
-  Korean(native) /  
 
 content:
 #  - title: Education # Title for the section
