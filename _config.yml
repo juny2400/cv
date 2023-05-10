@@ -54,8 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
   (2018 - CURRENT) Ph.D. Computer Science and engineering, POSTECH  
   (2013 - 2017) B.S. Mathematics, POSTECH  
 
-  Skills  
-  <mark>C/C++</mark> <mark>Python3 OCaml Swift Linux HTML5 MySQL Git/Github</mark>
+  Technical skills  
+  <mark>C/C++</mark> <mark>Python3</mark> <mark>OCaml</mark> <mark>Swift</mark>
+  <mark>Linux</mark> <mark>HTML5</mark> <mark>MySQL</mark> <mark>Git/Github</mark>
 
 content:
 #  - title: Education # Title for the section
@@ -149,7 +150,7 @@ content:
       - Table tennis
       - Badminton
       - Camping
-      - Cooking
+      - Coocking
       - Cube
 #      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
