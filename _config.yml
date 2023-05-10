@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   (2013 - 2017) B.S. Mathematics, POSTECH  
 
   Skills  
-  <mark>C/C++ Python3 OCaml Swift Linux HTML5 MySQL Git/Github</mark>
+  <mark>C/C++</mark> <mark>Python3 OCaml Swift Linux HTML5 MySQL Git/Github</mark>
 
 content:
 #  - title: Education # Title for the section
