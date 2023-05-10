@@ -128,6 +128,15 @@ content:
           In order to achieve the objectives mentioned above,
           algorithm design and S/W development that automates wiring work according to given conditions in PCB design are carried out.
 
+      - layout: top-middle
+        title: PCB design automation
+        quote: >
+          SW StarLab, Institute of Information & Communications Technology Planning & Evaluation(IITP), 2018 - 2022
+        description: | # this will include new lines to allow paragraphs
+          This project aims to design optimal algorithms that handles data such as objects existing in space.
+          Among them, we are conducting research on designing the optimal geometric algorithm that calculates
+          the shortest path and geometric data structure in a fast time in an environment where objects and data in space dynamically change.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
